@@ -111,8 +111,8 @@ Powered by **OpenStreetMap** real street data + **libphonenumber**-validated pho
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/random-person-data-api.git
-cd random-person-data-api
+git clone https://github.com/Xirrod/Address_Faker
+cd Address_Faker
 
 # 2. Install dependencies
 pip install -r requirements.txt
