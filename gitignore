@@ -1,0 +1,47 @@
+# Large data file - hosted on GitHub Releases, auto-downloaded by main.py on first run
+# DO NOT push to GitHub (184 MB exceeds the 25 MB file size limit)
+data/all_data.txt
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables / secrets
+.env
+.env.local
+.env.*.local
+*.secret
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs
+*.log
+logs/
