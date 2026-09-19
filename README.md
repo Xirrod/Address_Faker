@@ -111,7 +111,7 @@ Powered by **OpenStreetMap** real street data + **libphonenumber**-validated pho
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/xirrod/Address_Facker.git
+git clone https://github.com/xirrod/Address_Facker
 cd Address_Facker
 
 # 2. Install dependencies
